@@ -97,3 +97,45 @@ export const TestimonialCon = [{
     image: "/assets/testiment-2.svg",
     comments: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 }]
+
+export const ProductFeaturesCon = [{
+    icon: "/assets/sheild-2.svg",
+    heading: "Security and privacy",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+},
+{
+    icon: "/assets/built.svg",
+    heading: "Built-in AI features",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+},
+{
+    icon: "/assets/person.svg",
+    heading: "Collaborate with others",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+},
+{
+    icon: "/assets/card.svg",
+    heading: "Real time sync",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+},
+{
+    icon: "/assets/scan.svg",
+    heading: "Built-in AI features",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+},
+{
+    icon: "/assets/easy.svg",
+    heading: "Easy notes organization",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy.",
+}]
+
+
+export const PricingCon = [{
+    plan: "Regular",
+    planDesc: "Starter Plan",
+    icon: "/assets/tick.svg",
+    features: [{
+        feature: "Limited Projects",
+        Regular: "Regular Support"
+    }]
+}]

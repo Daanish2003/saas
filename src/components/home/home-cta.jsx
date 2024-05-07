@@ -6,7 +6,7 @@ import Image from 'next/image'
 
 const HomeCta = () => {
   return (
-    <section className="px-32 gap-24 flex pt-32">
+    <section className="px-32 gap-24 flex pt-32 bg-grey-500">
         <div className='space-y-6 '>
             <H2>More impressions, more conversions</H2>
             <P>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua invidunt ut labore.</P>

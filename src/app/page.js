@@ -9,7 +9,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <>
+    <main className="space-y-32">
       <HomeHero />
       <HomeFeatures />
       <HomeWhy />
@@ -17,6 +17,6 @@ export default function Home() {
       <HomeLogo />
       <HomeFeatures2 />
       <HomeTestimonial />
-    </>
+    </main>
   );
 }
