@@ -3,6 +3,7 @@ import "./globals.css";
 import Navbar from "@/components/navbar";
 import Cta from "@/components/cta";
 import Footer from "@/components/footer";
+import "./style.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
