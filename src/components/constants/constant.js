@@ -200,3 +200,24 @@ export const PricingCon = [{
         feature: "Ads Preview",
     }]
 }]
+
+export const FaqCon = [{
+    value: "item-1",
+    question: "How do I grow my business?",
+    answer: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+},
+{   
+    value: "item-2",
+    question: "Can I cancel my subscription?",
+    answer: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+},
+{   
+    value: "item-3",
+    question: "How do I contact the support?",
+    answer: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+},
+{   
+    value: "item-4",
+    question: "Is a credit card required?",
+    answer: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+}]

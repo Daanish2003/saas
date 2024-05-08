@@ -18,7 +18,7 @@ const PricingHero = () => {
         </div>
         <div className="flex justify-between px-[73px]">
             {PricingCon.map((item, index) => (
-                <div className={`w-[411px] h-[714px] rounded-3xl border-2 shadow-xl ${index == 1 ? "bg-lime-400" : "bg-white"}`} key={index}>
+                <div className={`w-[411px] h-[714px] rounded-3xl border-2 shadow-xl ${index == 1 ? "bg-gradient-to-r from-[#D7E7F9] to-[#D5F4EC] border-[#6B7CFF]" : "bg-white"}`} key={index}>
                     <div className="pl-12 pt-12 flex gap-6 pb-10">
                         <Image src={item.icon} alt="plans" width={54} height={54} />
                         <div>
