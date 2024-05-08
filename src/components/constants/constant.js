@@ -131,11 +131,72 @@ export const ProductFeaturesCon = [{
 
 
 export const PricingCon = [{
+    icon: "/assets/pricing-logo.svg",
     plan: "Regular",
     planDesc: "Starter Plan",
-    icon: "/assets/tick.svg",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+    price: "Free",
+    period: "For Limited Period",
     features: [{
+        icon: "/assets/tick.svg",
         feature: "Limited Projects",
-        Regular: "Regular Support"
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Regular Support Business",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "1 month Free Trial",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "3GB storage",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Ads Preview",
+    }]
+},{
+    icon: "/assets/pricing-logo2.svg",
+    plan: "platinum",
+    planDesc: "For the best results",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+    price: "$342",
+    period: "For Limited Period",
+    features: [{
+        icon: "/assets/tick.svg",
+        feature: "Limited Projects",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Regular Support Business",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "1 month Free Trial",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "20GB storage",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Ads Preview",
+    }]
+},{
+    icon: "/assets/pricing-logo.svg",
+    plan: "standard",
+    planDesc: "Most Popular",
+    desc: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr.",
+    price: "$234",
+    period: "Biling Monthly",
+    features: [{
+        icon: "/assets/tick.svg",
+        feature: "Limited Projects",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Regular Support Business",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "1 month Free Trial",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "10GB storage",
+    },{
+        icon: "/assets/tick.svg",
+        feature: "Ads Preview",
     }]
 }]
